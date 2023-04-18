@@ -41,7 +41,7 @@ export default function Footer() {
                           <a href="#" class="hover:underline">Privacy Policy</a>
                       </li>
                       <li>
-                          <a href="#" class="hover:underline">Terms &amp; Conditions</a>
+                          <a href="https://www.jbubs.com/collections/new-arrivals" class="hover:underline">Image referance</a>
                       </li>
                   </ul>
               </div>
